@@ -1,0 +1,2435 @@
+
+who can learn this 
+
+Prerquisites 
+
+What level 
+
+8.15 to 9.15 AM ISt 
+
+6 weeks 
+--------------------------------
+Cypress 
+Mocha 
+JS required for Automation
+BDD framework 
+Chai
+Git and GitHub 
+Jenkins 
+2 real time projects 
+
+UI Automation 
+API Automation 
+
+------------------------------
+
+Manual Testing 
+
+Scratch 
+
+Beginner to advanced 
+
+-----------------------
+
+Design the Framework 
+
+all the real time problems and solutions 
+
+-----------------------
+Practical oriented 
+
+Assignment 
+
+-----------------------------------
+
+Raju 
+
+11+ yrs 
+
+Working 
+
+---------------------------
+Selenium + Java+ TestNG
+Selenium + C#+ MStest
+
+Protractor + JS + Jasmine 
+
+Serenity JS + JS + BDD cucumber 
+
+Cypress + Js + Mocha 
+
+Cypress + Js + BDD cucumber
+
+WDIO + Js + Mocha 
+
+--------------------------- 
+
+performance Testing 
+
+Jmeter 
+Appdynamics
+---------------------------------------
+----------------------------------
+Selenium - UI Automation
+
+Rest Assured - API test automation
+
+Playwright  - UI + API
+
+Cypress  - UI + API + Visual Testing 
+
+Protractor 
+
+Serenity JS
+
+Katalon studio 
+
+UFT 
+
+Tosca 
+
+worksoft 
+
+Test Rigor 
+
+Test complete 
+
+Night Watch 
+
+puppeteer
+
+Appium
+
+WDIO
+
+---------------------
+
+Paid  - 10 %
+
+Open source - 90 %
+
+==================
+
+UI Automation 
+
+API Automation  - 
+
+Visual Testing 
+
+----------------------
+Web  - Selenium , Cypress playwright 
+
+UI 
+
+API 
+
+Mobile  - APPIum, renorex , WDIO 
+
+Desktop  - UFT , worksoft 
+
+-------------------------
+
+UI 
+
+
+Traditional Approach  - 3 months  - Selenium 
+
+Agular JS   - Protractor 
+
+React JS  - 1 month  - Cypress / Playwright
+
+Vue JS 
+
+
+Agular / React / Vue / Node js - Cypress 
+
+
+300 - selenium 
+
+Command Line 
+
+Debug 
+
+300 - cypress 
+
+Command line 
+
+Test Runner 
+
+Debug 
+
+Time travel 
+
+-------------------------
+Cypress 
+
+Advance UI 
+
+Angular / React JS / Vue 
+
+UI + API + visual testing
+
+Developers 
+
+Unit testing - Cypress 
+
+reports 
+
+------------------------
+Sychronized 
+
+
+Automation 
+
+Selenium  / Palywright 
+----------
+
+Lauch url  - 10 sec 
+
+click on login button - 2 sec 
+
+Enter user name  - 3 sec 
+
+Enter Password  - 3 sec 
+
+click on login 
+
+Logged 
+
+
+Synchronization Take care 
+
+---------------------
+
+Cypress 
+=======
+
+Lauch url  - 10 sec 
+
+click on login button - 2 sec 
+
+Enter user name  - 3 sec 
+
+Enter Password  - 3 sec 
+
+click on login 
+
+Logged 
+
+-------------------
+
+Fast 
+
+---
+
+test Runner
+
+--------------
+
+Cypress 
+
+JS / TS 
+
+==================
+
+5 to 6 lines 
+
+
+Web Application JS 
+
+JS 
+==================================
+
+Pre rquisites 
+
+----------------
+
+Node js 
+
+node -v
+
+u should get version number 
+
+Visual Studio / webstrom / Javascript Editors 
+
+---------------------
+npm init 
+
+npm install cypress 
+
+ latest version of cypress 
+ 
+   npm install cypress@10.0.0
+ 
+ 
+npx cypress open 
+
+=============================
+
+Cypress 
+
+Basics of JS 
+
+Mocha 
+
+BDD cucumber 
+
+UI 
+
+API 
+
+Git and GitHub
+jenkins 
+
+----------------
+
+Locators 
+
+xpath 
+
+CSS 
+
+--------------------
+
+cypress 
+  Advanced 
+ 
+Why Cypress 
+
+
+
+Features 
+
+How to Install 
+
+==========================
+
+Prepare 
+
+All interview and Answers 
+
+Mock interviews 
+
+Live interviews recording 
+
+
+-----------
+7207774066
+
+---------------------------------------------------
+
+
+How to Install cypress 
+
+-----------------------
+create folder 
+Open the folder in VS code 
+npm init 
+npm install cypress 
+npx cypress open 
+
+------------------------------
+
+Why We should do automation 
+
+Fast 
+
+reduce time 
+
+reduce the Manaul efforts 
+
+Smoke Testing 
+
+Regression testing
+
+2400 tests 
+--------------
+chrome 
+
+firefox 
+
+edge 
+
+------------------
+
+Accuracy 
+
+-------------------
+Parallel Testing 
+
+Cross browser Testing 
+
+--------------------
+Reports 
+
+
+When we go for automation:
+----------------------------
+
+When repitative 
+
+Application should be stable 
+
+
+Factors you need to conside while choosing the tool:
+====================================================
+
+Selenium 
+Protractor
+Cypress
+Playwright 
+Katalon studio
+Testsigma 
+Puppeteer 
+nightwatch 
+appium 
+renorex
+testrigor
+citrus 
+rest assured 
+jest 
+test complete
+Jmeter 
+worksoft
+tosca
+UFT
+telrik
+
+=================================
+1. open source or Paid 
+
+Open source 
+--------------
+Free 
+Defect 
+
+Selenium 
+
+Protractor 
+
+Cypress 
+Jest 
+Playwright 
+
+
+Paid :
+------
+
+Telrik 
+Worksoft 
+TestRigor 
+UFT 
+
+Tech support 
+Security 
+
+2. Web / Mobile / Desktop 
+
+Web
+ UI 
+ API 
+
+3. Based on UI framework
+
+Traditional
+
+Agular JS - Pratractor 
+
+React JS - 
+
+Vue Js 
+
+Node Js 
+
+
+4. Reports 
+
+selenium 
+
+cypress 
+
+5. Programming 
+code 
+codeless 
+
+Selenium 
+
+JAVA + collections + TestNG + Selenium 
+
+Cypress + JS + Mocha 
+
+6. Documentation 
+
+7. Support 
+
+-----------------------------------
+
+Cypress vs Other tools 
+
+Cypress vs Playwright
+
+--------------------------------------------
+cypress vs Selenium 
+ 
+
+1. Fast 
+
+2. Angular JS  / React JS / Vue JS / Node Js 
+
+3. Reports 
+
+    cypress - advanced 
+	
+4. Cypress easy learn 
+
+5. Test runner 
+
+   Selenium - Test cases - CLI
+   Cypress - Test cases - CLI + test runner 
+
+6. Language 
+
+   Selenium - Java , C# , Python, PHP, JS , Ruby
+   
+   Cypress - JS / TS 
+   
+7. Artchitecture difference 
+
+
+  Test script - Browser driver - browser 
+  
+  Jsonwire 
+  
+  test script - Browser 
+  
+  Cypress is not selenium based tool 
+  
+8. Time Travel 
+   
+   Selenium - no time Travel 
+ 
+9 We can manipulate the DOM Elements
+
+
+10 UI 
+
+  Cypress 
+  
+  Developer - Unit Testing
+  QA - UI + API + Visual testing 
+===============================
+  click()
+  
+  .click()
+  
+  cy.visit() - cypress 
+  page.goto()
+  
+  .type()
+  
+  .fill()
+  
+==========================
+xyz.ts
+{
+  
+
+}
+
+add(num1, num2){
+
+   console.log("result =" + (num1+num2))
+
+}
+
+add(4,5) // result = 9
+
+add(5,7) // result = 12
+
+add(4, "Raju")
+
+delete 
+xyz.com/34
+
+=====================================
+
+Manual + Automation
+
+Automation 
+ Test cases 
+ 
+ ============================
+ Verify Login Functionality 
+ 
+   1. Verify login with Valid Credentials 
+   
+       1. launch the url 
+	       cy.visit("url")
+		   
+	   2. enter the valid username 
+	   
+	        cy.get("#app > div.orangehrm-login-layout > div > div.orangehrm-login-container > div > div.orangehrm-login-slot > div.orangehrm-login-form > form > div:nth-child(2) > div > div:nth-child(2) > input").type("Admin")
+       3. Enter the valid password 
+	   
+	       cy.get(locatorforpassword).type("admin123")
+       4. click on the login button
+	   
+	       cy.get(locatorforloginbtn).click()
+   
+   2. Verify login with valid username and invalid password 
+   
+   3. Verify login with invalid username and valid password 
+   
+   4. Verify login with invalid username and invalid password 
+
+spec file 
+
+filename.cy.js
+
+describe - Test suite - collections of cases
+
+
+it - test case 
+
+
+Locators:
+
+CSS :
+
+tagname[attributename="attributevalue"]
+
+
+input[name="username"]
+
+
+xpath
+
+//tagname[@attributename="attributevalue"]
+
+//input[@name="username"]
+
+
+
+input[placeholder="Password"]
+
+
+Locators 
+
+cy.visit("url")
+
+page.goto("url")
+
+cypress
+cy.get(locator).type("vdsbjbv")
+playwright
+page.locator("locator").fill("hsfb")
+
+===============================
+
+one more test scripts
+
+BaseUrl 
+
+baseurl+"djfhbf"
+
+timeouts 
+
+defaultcommandtimeout - 4 sec 
+
+pageloadtimeout - 60 sec 
+
+Viewport
+
+cy.viewport()
+
+presets
+
+1000
+660
+
+---------------
+
+retires - 
+
+Openmode - 3
+runmode - 
+
+===============================
+Scripts 
+
+Reports 
+
+Mochawsome Reporter 
+
+Allure - HTML 
+
+Cloud reports
+
+npx cypress run
+
+800
+
+avaiod hardcoding the data 
+
+fixtures folder how we will read data 
+
+
+-----------
+
+Admin 
+ Add job title 
+====================
+
+click({force:true})
+data driven testing 
+
+=======================================
+
+Env 
+
+Cypress.env("username")
+
+if we need some test data for all the tests 
+
+Test runner 
+
+no screenshots 
+no videos 
+Command line Interface- CLI 
+
+npx cypress run - to run all tests in e2e folder 
+by default 
+
+   screenshots for failed tests 
+   Videos 
+   Electron - Browser 
+   Mode of running - Headless 
+   
+How to run tests in headless 
+
+ npx cypress run --headless
+
+How to run specific spec file /test file 
+
+ npx cypress run --spec "relativeofthefile"
+ npx cypress run --spec "relativeofthefile, relativeofthefile2"
+ 
+How to specific folder 
+
+npx cypress run --spec "cypress\e2e\regressiontests\**.cy.js"
+
+How to specify the browser 
+ 
+ npx cypress run --browser=chrome
+
+Which browser supported by cypress 
+
+Cypress supports the following browsers:
+ - electron
+ - chrome
+ - chromium
+ - chrome:canary
+ - edge
+ - firefox
+ 
+Safari browser supported or not 
+No
+
+npx cypress open -- config-file pathfile 
+
+How to pass the dynamic url 
+====================================
+Cypress folder structure 
+
+Root folder
+  cypress
+    downloads 
+      Any files downloaded using script will be saved in this folder 	
+    e2e 
+	  We are going create spec files 
+	  
+	  by default we have to save the spec file 
+	  filename.cy.js
+	  We can create some sub folders 
+	fixtures 
+	
+	  to manage the test data
+      we can create some subfolder based on our projects 	  
+	reports 
+	  HTML reports 
+	Screenshots 
+	  by default screenshots for failed tests saved here 
+	Videos 
+	  Video will be captured under this folder 
+    Support 
+      commands.js
+	  
+	    cy.get()
+		cy.contains()
+		cy.viewport()
+		cy.raju()
+		cy.addemployee()
+		
+	  e2e.js 
+	   Import the external libraries / plugins 
+node_modules 
+
+   conatins all the libraries 
+   
+     cypress 
+	    abc
+		  pqr 
+        xyz	
+
+cypress.config.js 
+
+     baseurl 
+     vieewport 
+     timeouts   
+     env 
+	 retries 
+	 reporter 
+	 
+multiple configuration 
+package.json
+package-lock.json
+
+   cypress 
+     fs-extra - 2.10.0
+	 
+   mochawsome-reporter 
+     fs-extra - 3.10.0
+   	 
+Difference between old and new versions of cypress
+
+below 10 
+Root folder
+  cypress
+    downloads 
+      Any files downloaded using script will be saved in this folder 	
+    integration 
+	  We are going create spec files 
+	  
+	  by default we have to save the spec file 
+	  filename.spec.js
+	  We can create some sub folders 
+	fixtures 
+	
+	  to manage the test data
+      we can create some subfolder based on our projects 	  
+	reports 
+	  HTML reports 
+	Screenshots 
+	  by default screenshots for failed tests saved here 
+	Videos 
+	  Video will be captured under this folder 
+    Support 
+      commands.js
+	  
+	    cy.get()
+		cy.contains()
+		cy.viewport()
+		cy.raju()
+		cy.addemployee()
+		
+	  index.js 
+	   Import the external libraries / plugins
+	plugins 
+	  index.js 
+	  
+	  configurations 
+node_modules 
+
+   conatins all the libraries 
+   
+     cypress 
+	    abc
+		  pqr 
+        xyz	
+
+cypress.json
+
+     baseurl 
+     vieewport 
+     timeouts   
+     env 
+	 retries 
+	 reporter 
+	 
+multiple configuration 
+package.json
+package-lock.json
+
+======================
+
+npm install cypress@9.7.0
+
+   cypress 
+     fs-extra - 2.10.0
+	 
+   mochawsome-reporter 
+     fs-extra - 3.10.0
+
+above 10
+
+Root folder
+  cypress
+    downloads 
+      Any files downloaded using script will be saved in this folder 	
+    e2e 
+	  We are going create spec files 
+	  
+	  by default we have to save the spec file 
+	  filename.cy.js
+	  We can create some sub folders 
+	fixtures 
+	
+	  to manage the test data
+      we can create some subfolder based on our projects 	  
+	reports 
+	  HTML reports 
+	Screenshots 
+	  by default screenshots for failed tests saved here 
+	Videos 
+	  Video will be captured under this folder 
+    Support 
+      commands.js
+	  
+	    cy.get()
+		cy.contains()
+		cy.viewport()
+		cy.raju()
+		cy.addemployee()
+		
+	  e2e.js 
+	   Import the external libraries / plugins 
+node_modules 
+
+   conatins all the libraries 
+   
+     cypress 
+	    abc
+		  pqr 
+        xyz	
+
+cypress.config.js 
+
+     baseurl 
+     vieewport 
+     timeouts   
+     env 
+	 retries 
+	 reporter 
+	 
+multiple configuration 
+package.json
+package-lock.json
+
+   cypress 
+     fs-extra - 2.10.0
+	 
+   mochawsome-reporter 
+     fs-extra - 3.10.0
+ 
+
+================================
+Why Framework 
+
+Mocha - Test framework
+BDD- Test framework
+POM
+Reporter 
+  allure 	
+  
+GitHub 
+Jenkins 
+===========================================
+
+
+.type("11:45 PM")
+
+==============================
+
+Semantic versioning 
+
+13.0.0
+Major.minor.patch
+
+patch - bug fixes 
+Minor - Minor features 
+Major - Major changes 
+13.0.1
+
+13.0.2
+
+13.0.3
+
+13.1.0
+
+13.2.0
+
+13.3.0
+13.3.1
+
+==========================
+
+tilde 
+~
+
+Latest Patch
+
+
+~13.3.0
+
+npm install
+
+13.3.3
+=============
+Caret 
+^
+
+Latest minor and latest patch 
+
+^13.3.0
+
+npm install 
+
+===================================
+
+Why We need JS 
+
+"Test Title"+kngjer
+
+ Test Titlekngjer
+ 
+ Test Titleghrii
+ 
+ to generate the dynamic data 
+ 
+ 
+    let r = (Math.random() + 1).toString(36).substring(7);
+	
+	"testemail"+r+"@gamil.com"
+	
+===========================================
+
+JS is used only to develop webpages 
+
+UI Developer / frontend developer 
+
+Browsers
+{
+ 
+ <Script
+   Js code
+   
+
+}
+
+==================================
+
+Java and Javascript
+
+Javascript
+ 
+ Web pages 
+ 
+{
+
+
+
+}
+
+[javascript]
+
+==============================
+HTML + CSS + JS + Bootstrap + Jquery 
+
+C 
+
+Javascript
+
+node js 
+
+[
+Js code 
+]
+
+Frontend 
+Backend 
+
+npm - node package manager 
+
+xyz - 
+[calculator]
+
+add()
+
+substract()
+
+========================================
+[cypress]
+
+cy.visit()
+
+cy.viewport()
+
+=============================
+Variables 
+
+var , let , const 
+
+var x = "Monika "
+
+{
+  cy.get(locator).type(x)
+cy.get(locator).type(x)
+cy.get(locator).type(x)
+cy.get(locator).type(x)
+cy.get(locator).type(x)
+cy.get(locator).type(x)
+x= "Rekha"
+
+cy.get(locator).type(x)
+
+
+}
+
+=============================================
+
+{
+  let z = 40
+
+   {
+   
+   
+   }
+   
+   {
+     let y = 40
+   
+   }
+   
+   {
+   
+   
+   }
+
+
+
+}
+
+{
+
+
+}
+=========================
+
+var is there from initial version of JS 
+
+var is global scope 
+
+var reassign different value is possible 
+
+var re declaration of the same variable is possible
+
+=====================
+Let is introduced in Es6 onwords 
+blocked scope
+
+let  reassign different value is possible but within blocked 
+
+let re-declaration of the same variable is not possible
+
+
+===========================
+const is introduced in Es6 onwords 
+blocked scope
+
+const  reassign different value is not possible 
+
+const re-declaration of the same variable is not possible
+
+================================
+Data tyeps 
+
+Primitive datatypes
+
+1. number 
+
+2. string 
+""
+
+''
+``
+
+3. boolean 
+
+true 
+false 
+4. undefined 
+
+5. null
+
+
+Non primitive datatypes 
+
+1. objects 
+2. arrays 
+3. reg ex 
+
+=======================================
+
+conditional statements
+
+loops 
+
+
+
+       cy.visit("/web/index.php/auth/login")
+
+        cy.log("User launched application" + data.username)
+
+        //cy.wait(10000)
+        cy.get('input[name="username"]').type(creds[0])
+
+       // cy.wait(7000)
+
+        cy.log("User typed username as "+ Cypress.env("username"))
+
+        cy.get('input[placeholder="Password"]').type(creds[1])
+
+        cy.log("User typed password")
+
+        cy.get('button[type="submit"]').click()
+      
+        cy.contains('Dashboard').should("be.visible")
+
+        cy.contains('Buzz').click()
+
+        cy.contains('Buzz Newsfeed').should("be.visible")
+
+        cy.get(`textarea[placeholder="What's on your mind?"]`).type(buzzdata.post)
+
+        cy.get('button[type="submit"]').click()
+
+        cy.contains('Successfully Saved').should("be.visible")
+
+
+Working with Objects 
+
+functions 
+
+Arrow functions 
+
+{
+
+  cy.visit()
+  
+  cy.login()
+  
+  cy.editorder(createorder())
+
+}
+
+function createorder(){
+  
+  return ordernumber 
+}
+===================================
+
+arrays 
+
+var arr = {1,3,4,5,6}
+
+function maxnumber (arr){
+
+arr2 = arr.sort()
+
+maxnumber = arr2[arr2.lenght-1]
+}
+
+Assignment :
+
+filter()
+
+reduce()
+
+map()
+
+wap to reverse the words 
+
+=============================
+
+How to work numbers 
+
+How to work with strings 
+
+
+OOPS 
+===============
+
+class 
+
+  Variables 
+  methods 
+  
+   Static 
+   
+   Constructor 
+   
+====================
+
+oops 
+
+1. Encapsulation
+
+  Binding the data between different methods inside a class 
+  
+  class emp{
+     add(num1, num2){
+	 
+	   return num1+num2
+	 }
+	 
+	 substract(11, num2)
+  
+  }
+  
+  const obj1 = new emp()
+  
+2. Inheritance 
+
+class A{
+ 
+ m1
+ 
+ m2
+ 
+ m3
+
+}
+
+class B {
+  
+  x1
+  
+  x2
+  
+  x3
+
+}
+
+class C extends B{
+
+   a1
+   
+   a2
+   
+   a3
+}
+
+const obj = new C()
+
+3. Prototype 
+
+class A{
+  
+  m1
+  m2
+  m3
+
+}
+
+A.prototype.stuname= "Mahesh" // Protoityped variable 
+
+A.prototype.m5= function (){
+
+   console.log("this is M5 Method")
+}
+
+// Protoityped Mehtod
+
+const one = new A()
+
+const two = new A()
+
+4. Polymorphism 
+
+   Method overrding 
+   
+   Method overloading 
+   
+ 
+class A{
+ 
+    m1(){
+	  
+	  console.log("Perent class method")
+	}
+}
+
+ 
+class B extends A{
+ 
+    m1(){
+	 
+	 console.log("child class method")
+	}
+}
+
+const obj = new B()
+
+obj.m1()
+
+=======================================
+
+describe {
+
+before{
+
+}
+
+after(){
+
+}
+   
+   beforeEach{
+    
+	 // 5 lines 
+   }
+   
+   afterEach{
+    // 5 lines 
+   }
+
+   it {
+   
+       
+     // 30 lines 
+   }
+   
+   it{
+   
+    // 30 lines 
+   }
+   
+   it{
+   
+   
+      //20 lines 
+    }
+
+
+
+}
+
+========================
+
+Hooks 
+
+   Before 
+   After 
+   BeforeEach 
+   AfterEach
+   
+Describe - Test Suite 
+it - Test case
+
+
+describe {
+
+   After 
+   BeforeEach 
+   AfterEach
+   Before 
+  
+  
+  it{
+  
+  }
+  
+  it{
+  
+  }
+
+}
+
+================================
+Order of Execution :
+
+before
+beforeEach
+it 
+afterEach
+beforeEach
+it 
+afterEach
+beforeEach
+it 
+afterEach
+after
+
+Tags:
+
+it.only 
+it.skip
+
+
+
+describe{
+
+   context{
+   
+   
+     it
+	 it
+	 it
+   
+   }
+   
+   context.skip{
+     it
+	 it
+	 it
+   }
+   
+   
+   context{
+    it 
+	it
+	it
+   
+   }
+}
+
+describe == context 
+
+it == specify 
+
+===============================================
+
+TestNG Framework 
+
+@test(enbaled = true )
+
+@test (priority=4)
+
+@test(Priority=1)
+ 
+@test ("depends = test2)
+Annotations 
+
+
+
+
+Junit Framework
+
+Jasmine Framework
+
+Mocha Framework
+
+ Test suite 
+ 
+  describe {
+   
+   it
+   it 
+   it
+   it 
+   
+   
+  
+  }
+  
+  Test case
+  it 
+
+Nunit Framework
+
+Mstest Framework
+
+Pytest Framework
+
+Cucumber Framework
+
+Gherkin
+
+Given 
+When 
+Then
+
+Specflow Framework
+
+describe {
+
+let userid 
+
+it{
+
+ create user 
+ 
+ userid = "xyz123"
+ 
+ aliasing 
+ 
+ cy.get().as("userid")
+ 
+  Cypress.env("userid", "xyz123")
+}
+
+it {
+   cy.get(userid)
+  edit user 
+  
+  Cypress.env("userid")
+}
+
+it {
+ delete User 
+}
+
+}
+
+
+
+cypres.config.js
+
+
+env:{
+
+  userid: ""
+
+}
+
+==============================================
+Design pattern
+
+35+
+======================
+POM
+Screenplay
+Actios
+
+DOM :
+------
+
+<html 
+
+<table 
+
+  thead
+   th
+  tbody
+  
+  tr 
+  td 
+ 
+checkbox 
+
+<input 
+
+type="checkbox"
+
+radio button
+
+<input 
+
+type="radio"
+
+
+dropdown 
+
+<select
+   <option 
+   <option  
+
+link 
+<a
+
+file upload 
+
+<input 
+
+type="file"
+
+edit box 
+
+< input 
+
+ type="text"
+ 
+< input 
+
+ type="number"
+ 
+ 
+===============================
+Design Pattern 
+
+POM 
+
+Reusability 
+Maintanance 
+
+input[name="username"]
+
+=====================================
+SlectorsHub
+LetXpath
+Playground Cypress 
+
+===========================
+
+
+
+CSS
+
+Selenium 
+
+1.  ID 
+2. Name 
+3. classname 
+4. xpath
+5. css 
+6. Linktext
+7. partial link text 
+8. tagname
+
+driver.findElement(by.xpath(locator))
+driver.findElement(by.partialLinkatext(locator))
+driver.findElement(by.id(locator))
+
+======================================
+
+cy.get(CSS locator)
+
+cy.xpath(xpath locator)
+
+Selenium 
+driver.findElement(by.selector('input[name="username"]')).sendKeys("Admin")
+
+cypress 
+cy.get('input[name="username"]').type("Admin")
+
+playwright
+
+page.locator('input[name="username"]').fill("Admin")
+
+============================
+By default cypress supports CSS locators only 
+
+by xpath plugin we can also use xpath locators 
+
+right now xpath palugin deprecated 
+
+==============================
+xpath - Xml Path 
+
+1. Absolute xpath
+   always starts from /
+   always starts form root node 
+   
+   ex: /html/body/div/div[1]/div/div[1]/div/div[2]/div[2]/form/div[1]/div/div[2]/input
+       /html/body/div/div[1]/div/div[1]/div/div[1]/img
+
+2. Relative path 
+
+   always starts from //
+   always starts form relative node 
+   ex: 
+   //input[@placeholder="Username"]
+   //input[@name="username"]
+
+
+1. Basic xpath 
+
+//tagname[@attributename="attributevalue"]
+
+//a[@href="https://twitter.com/orangehrm?lang=en"]
+//input[@type="password"]
+
+2. text 
+
+  //tagname[text()="fulltext"]
+  
+  //p[text()='Forgot your password? ']
+  
+3. Partial text
+  
+  //tagname[contains(.,"partialtext")]
+  
+  //p[contains(.,"Forgot")]
+  
+4. AND 
+ 
+ Both attributes should be present 
+ 
+ //tagname[@attr1="attr1value"][@attr2="attr2value"]
+ 
+  //tagname[@attr1="attr1value" and @attr2="attr2value"]
+
+ex: 
+
+//input[@type="password"][@id="newpasswd"]
+
+5. OR 
+
+Any one attribute is fine
+
+ //tagname[@attr1="attr1value" or @attr2="attr2value"]
+
+//input[@name="username" or @placeholder="raju"] 
+
+6. starts with / prefix 
+
+  id=message0295i0934
+  id=message934859848
+  
+  //tagname[starts-with(@attrname, "prefixvalue")]
+  
+7. indexing 
+
+ (xpathexpression)[1]
+ (xpathexpression)[2]
+  (xpathexpression)[last()]
+  
+  ex: (//a[@class="oxd-main-menu-item"])[last()]
+  
+  
+8. Traversing from child to parent 
+
+   <div 
+     <span  
+	 
+	//span[text()='Buzz']/../../..
+	
+9. Parent to child node traversing 
+
+   expression/childnodeexpression
+   
+   //a[@href="/web/index.php/buzz/viewBuzz"]/span
+   
+   //ul[@class="oxd-main-menu"]/li[1]
+   
+10 Axes Methods:
+     
+	 1. following 
+	 
+	    {
+		  
+		  <div 
+		    
+			<input
+			<div
+			<div
+			
+			
+			<input
+		  
+		
+		}
+		
+		 xpathexpression/follwing::xpthexpression
+		 
+		 cy.xpath('//input[@name="username"]/following::input").type()
+	 
+	 2. Following-sibling 
+	 
+	     xpathexpression/following-sibling::xpthexpression
+	    //div[@class="oxd-layout-navigation"]/following-sibling::div
+	 
+	 {
+	 
+	 
+	   <ul 
+	     <li
+		 <li
+		 <li
+	 
+	 }
+	 
+	      
+	 3. Parent 
+	   xpathexpression/..
+	   
+	   xpathexpression/parent::tagname
+	 
+	 4. Ancestor 
+	     	 xpathexpression/ancestor::xpthexpression
+	 
+	 5. Descendant 
+	 
+	   {
+	   
+	     <input
+		   < div
+		      <div
+		 
+	   
+	   
+	   }
+	 
+	 6. Self 
+	 
+CSS - Cascading style Steets
+
+1. Basic syntax 
+ xpath - //tagname[@attributename="attributevalue"]
+ 
+ tagname[attributename="attributevalue"] 
+ 
+2. In CSS 
+we will not be able to write a locator with the help of text 
+
+//tagname[text()="fulltext"]
+
+cy.contains(text)
+
+
+Partial text / full Text 
+
+cy.contains("dashboard").click()
+
+first matching element 
+
+3.  AND 
+
+ Both attributes should be present 
+ 
+ tagname[attr1="attr1value"][attr2="attr2value"] 
+ 
+ a[class="oxd-main-menu-item"][href="/web/index.php/pim/viewPimModule"]
+
+4. OR 
+
+ No  or logic 
+ 
+5. starts with / prefix 
+
+   tagname[attrbutename^="prefixvalue"]
+
+   input[name^="name"]
+   
+6. ends with / suffix 
+
+   tagname[attrbutename$="suffixvalue"]
+   
+   em[title$="password"]
+7. contains
+   tagname[attrbutename*="partialattributevalue"]
+   
+   input[name*="name"]
+   
+8. Indexing 
+
+ in xpath -  (xpathexpression)[1]
+ (xpathexpression)[2]
+ (xpathexpression)[last()]
+ 
+ Indexing like above is not possible in CSS 
+ 
+ In cypress for Indexing 
+ 
+ .eq()
+ 
+ .first()
+ 
+ .last()
+ 
+ cy.get('a[class="oxd-main-menu-item"]').eq(0)
+
+ cy.get('a[class="oxd-main-menu-item"]').first()
+ 
+ cy.get('a[class="oxd-main-menu-item"]').last()
+ 
+ ========
+
+9. parent to child
+
+ In xpath
+ <ul 
+   <li
+   <li
+ 
+ ul/li[2]
+ 
+ cssexpression > childnode 
+ 
+  <ul 
+   <li
+   <li
+   
+   ul > li:nth-child(2)
+   
+   ul[class="oxd-main-menu"] >li:nth-child(2)
+   
+10 child to parent 
+
+in xpath 
+  xpathexpression/../..
+  xpathexpression/parent::tagname
+  
+ In CSS traversing from child to parent is not possible 
+ 
+ .parent()
+
+cy.get('div[id="app"]').parent().find()
+
+
+ 
+ complex xpathexpression
+ 
+cy.xpath('//td[text()='Full Name']/../td[3]/input').type("enhgiuhner")
+
+
+cy.conatins("Retype password").parent().within(){
+
+
+cy.get(td:nth-child(3)>input).type("dbgfh")
+
+}
+
+axes methods not av available for CSS 
+
+ next()
+ nextUntill()
+ Parent()
+ Parents()
+ prev()
+ PrevUntill()
+ 
+following-sibling
+//div[@class="oxd-layout-navigation"]/following-sibling::div
+
+
+in CSS 
+
+cssexpression + node 
+
+div[class="oxd-layout-navigation"] + div
+
+11. ID attribute 
+
+#idvalue
+
+#newpasswd1
+
+12. class 
+
+.classvalue
+
+.oxd-layout-navigation
+
+.class1.class2.class3.class4
+.oxd-layout.orangehrm-upgrade-layout
+
+======================================
+
+cypress cloud
+
+Ci CD 
+
+Plugin - cypress-parallel
+
+==============================================
+Workig with different web elements
+
+
+1. Button 
+
+cy.get(locator).should("exist")
+
+cy.get(locator).should("be.visible")
+
+cy.get(locator).should("be.enabled")
+
+cy.get(locator).should("be.disabled")
+
+cy.get(locator).click()
+
+cy.contains("text").click()
+
+cy.get(locator).dblclick('topRight')
+
+cy.get('img').click('topRight')
+
+cy.contains("text").click({log:false})
+
+cy.contains("text").click({force:true})  ***
+
+--------------
+
+cy.contains('Pista - 1/4 Kg').parent().find("div:nth-child(3)>button").click()
+
+=================
+
+2. Edit box 
+
+cy.get(locator).type("men shoes{enter}")
+
+cy.get(locator).type("bgoengvjioerfbvieron", {delay:1000})
+
+cy.get(locator).type("ownfh", {force:true}) //type in hidden element 
+
+
+3. Check box 
+
+  .check()
+  
+  .should("be.checked")
+  
+  .uncheck()
+  
+    .should("not.be.checked")
+  
+   tagname - input 
+  
+   type='checkbox"
+   
+   click()
+4. Radio button 
+
+  tagname - input 
+  
+  type="radio"
+  
+  check()
+  
+  uncheck() - will not work for radio button 
+
+5. drop down
+
+tagname - select 
+  <select 
+    <option
+    <option	
+	
+	.select()
+	
+  --------------------
+  3 Ways 
+  
+    1. Text 
+	   
+	   cy.get('select[name*="DOB_Month"]').select("JUN")
+	
+	2. Value 
+	   cy.get('select[name*="DOB_Month"]').select("06")
+	
+	3. Index 
+	
+	   cy.get('select[name*="DOB_Month"]').select(6)
+	
+	
+6. comb box 
+
+7. Tabs 
+
+Can plz explain limattions of cypress 
+
+
+.invoke("attr", "type", "number").type("bjgh")
+
+cy.get('input[test]')
+  .invoke('attr', 'test', 'my new value')
+  .should('have.attr', 'test', 'my new value')
+
+7. alerts 
+
+JS 
+Alerts 
+
+simple 
+
+   cy.on('window:alert', (alert) => {
+		
+            expect(alert).to.equal(`I am a JS Alert`)
+            return true
+        })
+
+     cy.on('window:confirm', (alert) => {
+		
+            expect(alert).to.equal(`I am a JS Alert`)
+            return true
+        })
+		
+	    cy.window().then(($win) => {
+
+            cy.stub($win, 'prompt').returns("Mahesh");
+            cy.contains('Click for JS Prompt').click();
+        })
+
+Bootstrap 
+
+Alerts 
+
+alert and Pop up 
+
+===================================
+8. iframes 
+
+{
+
+  <iframes
+  {
+  
+    Radio
+  
+  }
+  
+  
+  {
+  
+  
+  }
+  
+  
+  {
+  
+  
+    check Box 
+  }
+
+
+}
+
+selenium:
+
+switchTo(child1){
+
+}
+
+switchTo(Main)
+
+
+switchtO(child3){
+}
+
+cy.get(locator).check()
+
+=========================================
+
+{
+  {
+  
+  {
+  
+  }
+  }
+  
+  {
+  
+  }
+  
+  {
+  
+  }
+
+}
+
+
+9. Mouse events /scrolling 
+
+cy.get('#dropdownDocs').trigger("mouseover")
+
+double 
+
+cy.get(locator).dblclick()
+
+context click / right click
+
+scrolling
+
+
+cy.get('a[href="https://on.cypress.io/discord"]').last().scrollIntoView()
+
+======================
+10. Shadow dOM
+
+cy.get('input[type="checkbox"]').check()
+
+cy.get('#shadow_host").shadow().find('input[type="checkbox"]').check()
+
+Cpress Real events
+===================
+8. drag and drop 
+
+ Using plugin 
+ 
+ if you want to drag 2 items to the same same target 
+ 
+ DataTranfer 
+ 
+  dragstart
+  
+  drop 
+  
+  -------------
+  
+  Assignemnt send
+  ===============
+ 
+
+9. links 
+
+//a 
+
+
+cy.get(".oxd-main-menu-item-wrapper").its("length").then((len)=>{
+
+  cy.log(len)
+  
+  expect(len).to.equal(12)
+  
+  expect(len).to..to.be.within(10, 15)
+})
+
+cy.get('.oxd-main-menu-item-wrapper').should("have.length", 12)
+
+
+--------------------------
+
+links 
+
+click 
+
+it open in the new tabs 
+
+-------------
+
+.invoke("removeAttr", "target')
+
+-----------------------------
+
+click on link 
+
+It will navigate same xyz page 
+
+-------------
+
+cy.get(locator).click()
+
+--------
+
+url()
+
+cy.url().should("eq", "https://opensource-demo.orangehrmlive.com/web/index.php/buzz/viewBuzz")
+
+cy.url().should("include", "/buzz/viewBuzz")
+
+-------------------
+
+title()
+
+
+cy.tilte().should("eq", "Assertions | Cypress Documentation")
+
+cy.tilte().should("include","Assertions")
+
+--------------------
+
+
+Cypress limited is limited to super domain 
+
+
+cy.get(locator).click()
+
+https://opensource-demo.orangehrmlive.com/web/index.php/dashboard/index
+
+https://opensource-demo.orangehrmlive.com/web/index.php/buzz/viewBuzz
+
+
+https://trello.com/
+
+https://id.atlassian.com/
+
+cy.origin()
+
+    cy.origin('https://id.atlassian.com', () => {
+
+            cy.get('#username').type("rajutester2673@gmail.com")
+
+            cy.get('#login-submit').click()
+        })
+
+10. tables 
+
+<table 
+  
+  <thead 
+  
+  <tbody 
+  
+    <tr
+	< td
+	
+  cy.get('#table1 > tbody > tr').should("have.length", 4)
+  
+  cy.get('#table1 > thead>tr>th").should("have.length", 6)
+  
+  cy.get('#table1 > tbody >tr:nth-child(2) >td:nth-child(3)').then((txt)=>{
+     
+	 var textvalue = txt.text()
+	 cy.log(textvalue)
+	 
+	 expect(textvalue).to.equal("fbach@yahoo.com")
+  
+  })
+  
+  cy.contains("Conway").parent().within(()=>{
+  
+    cy.get("td").eq(3).then((txt)=>{
+     
+	 var textvalue = txt.text()
+	 cy.log(textvalue)
+	
+  
+  })
+  })
+===================
+ 
+11. Images 
+
+90% 
+
+cy.get(locator).should("be.visible")
+cy.get(locator).should("have.attr","attrname", "attrvalue")
+
+cy.get(locator).should("have.attr", "src", "/web/images/ohrm_branding.png?v=1721393199309")
+
+===============================
+
+12. File upload
+
+13. file download 
+
+15. Write file 
+
+16. Read file 
+
+17. cy.fixture
+
+18. custom commands 
+
+============
+
+19. conditional testing 
+
+20 cy.sesseion
+
+21 convert excel to json
+
+22. Data driven testing
+=================================
+23. Allure reports 
+
+24 cypress cloud reports 
+
+25. API Test automation
+
+26 BDD cucumber framework
+
+27 Git and GitHub
+
+28 Jenkins 
