@@ -15,9 +15,9 @@ class loginPage {
         return '//input[@name="password"]'
     }
 
-    entercreds(field){
- 
-         return 'input[name="'+field+'"]'
+    entercreds(field) {
+
+        return 'input[name="' + field + '"]'
 
     }
 
@@ -27,20 +27,20 @@ class loginPage {
 
     }
 
-   loginerrormessage = 'Invalid credentials'
+    loginerrormessage = 'Invalid credentials'
 
-   loginwithcreds(username, password ){
+    loginwithcreds(username, password ) {
 
-    cy.get(this.orageHRMLogo()).should("be.visible")
+        cy.get(this.orageHRMLogo()).should("be.visible")
 
-    cy.get(this.entercreds("username")).type(username)
+        cy.get(this.entercreds("username")).type(username)
 
-    cy.get(this.entercreds("password")).type(password)
+        cy.get(this.entercreds("password")).type(password)
 
-    cy.get(this.loginBtn()).click()
-  
-     
-   }
+        cy.get(this.loginBtn()).click()
+
+
+    }
 
 
 }
